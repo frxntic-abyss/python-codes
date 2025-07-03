@@ -18,4 +18,4 @@ elif BMI <= 39.9:
     print("you are obese.")
 
 else:
-    print("You are severely obese")254.3
+    print("You are severely obese")
