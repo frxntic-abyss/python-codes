@@ -1,7 +1,7 @@
 import turtle
 t = turtle.Turtle()
 s = turtle.Screen()
-colors = ['red', 'purple', 'blue', 'green', 'orange', 'yellow']
+colors = ['red', 'purple', '#4287f5', 'green', 'orange', 'yellow']
 s.bgcolor('black')
 t.speed('fastest')
 t.hideturtle()
